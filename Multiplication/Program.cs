@@ -9,6 +9,7 @@
                 Console.WriteLine($"{i}단");
                 for (int j = 2; j <= 9; j++)
                 {
+                    Console.WriteLine($"{i} * {j}  = {i * j}");
                 }
                 Console.WriteLine();
             }
