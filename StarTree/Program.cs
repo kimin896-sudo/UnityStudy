@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            // 별만들기
+            // 별만들기1
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
@@ -15,6 +15,7 @@
                 }
                 Console.WriteLine();
             }
+            // 별만들기2
             for (int i = 0; i < 5; i++)
             {
                 for (int j = 0; j < 5; j++)
