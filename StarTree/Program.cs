@@ -25,10 +25,11 @@
                 Console.WriteLine();
             }
 
+            Console.WriteLine();
 
             for (int i = 0; i < 5; i++)
             {
-                for (int k = 0; k <= i; k++)
+                for (int k = 1; k <= i; k++)
                 {
                     Console.Write(" ");
                 }
@@ -46,7 +47,7 @@
             for (int i = 0; i < 5; i++)
             {
 
-                for (int k = i; k < 5; k++)
+                for (int k = i+1; k < 5; k++)
                 {
                     Console.Write(" ");
                 }
