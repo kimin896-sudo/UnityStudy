@@ -10,8 +10,6 @@
 
         static void Main(string[] args)
         {
-
-
             Console.WriteLine($"{Test(10)}");
         }
     }
