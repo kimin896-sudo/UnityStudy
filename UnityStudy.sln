@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36717.8 d17.14
+VisualStudioVersion = 17.14.36717.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityStudy", "UnityStudy\UnityStudy.csproj", "{CD3C0D43-78E5-4602-A9DD-03982B04BA86}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarTree", "StarTree\StarTree.csproj", "{E25F2A7D-CEAC-46F4-87B9-2D2EC7C070A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homwork", "Homwork\Homwork.csproj", "{2BE863BE-E469-436C-9076-8410B93F24A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cumulative", "Cumulative\Cumulative.csproj", "{5A27A9AD-8557-494D-9BCB-FF2F65AACF88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2BE863BE-E469-436C-9076-8410B93F24A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BE863BE-E469-436C-9076-8410B93F24A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BE863BE-E469-436C-9076-8410B93F24A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A27A9AD-8557-494D-9BCB-FF2F65AACF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A27A9AD-8557-494D-9BCB-FF2F65AACF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A27A9AD-8557-494D-9BCB-FF2F65AACF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A27A9AD-8557-494D-9BCB-FF2F65AACF88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
